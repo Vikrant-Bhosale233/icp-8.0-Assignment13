@@ -1,14 +1,14 @@
-.login{
+.login {
     font-size: 60px;
     background-color: #9E2A84;
     border: solid 2px;
-    color:#D6A5D7;
+    color: #D6A5D7;
     font-style: italic;
     padding: 10px;
     border-radius: 30px;
 }
 
-.Download{
+.Download {
 
     font-size: 60px;
     background-color: #EA1E1E;
@@ -17,14 +17,24 @@
     font-style: oblique;
     padding: 10px;
     border-radius: 50px;
-    }
+}
 
-    .playnow{
-        font-size: 60px;
-        background-color: #05C2CB;
-        border: dashed 5px;
-        color: blue;
-        font-style: oblique;
-        padding: 10px;
-        border-radius: 30px;
-    }
+.playnow {
+    font-size: 60px;
+    background-color: #05C2CB;
+    border: dashed 5px;
+    color: blue;
+    font-style: oblique;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.logout {
+    font-size: 60px;
+    background-color: #05902E;
+    border: solid 5px;
+    color: bisque;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 20px;
+}
