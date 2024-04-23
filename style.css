@@ -7,3 +7,14 @@
     padding: 10px;
     border-radius: 30px;
 }
+
+.Download{
+
+    font-size: 60px;
+    background-color: #EA1E1E;
+    border: double 5px;
+    color: wheat;
+    font-style: oblique;
+    padding: 10px;
+    border-radius: 50px;
+    }
