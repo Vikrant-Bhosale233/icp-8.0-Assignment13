@@ -38,3 +38,13 @@
     padding: 10px;
     border-radius: 20px;
 }
+
+.watchnaow {
+    font-size: 60px;
+    background-color: #F4A30B;
+    border: double 3px;
+    color: #8C570B;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 40px;
+}
