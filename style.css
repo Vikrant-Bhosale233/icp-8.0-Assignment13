@@ -18,3 +18,13 @@
     padding: 10px;
     border-radius: 50px;
     }
+
+    .playnow{
+        font-size: 60px;
+        background-color: #05C2CB;
+        border: dashed 5px;
+        color: blue;
+        font-style: oblique;
+        padding: 10px;
+        border-radius: 30px;
+    }
